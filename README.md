@@ -1,9 +1,9 @@
 <!-- <div align="center">
-  <img src="https://media1.tenor.com/m/CFyGnTjUqw4AAAAd/dinosaur.gif" />
+  <img src="https://i.imgur.com/1t8HA7M.gif" width="100%" />
 </div> -->
 
 <div align="center">
-  <img src="https://i.imgur.com/1t8HA7M.gif" width="100%" />
+  <img src="https://i.imgur.com/SfTbdf1.gif" />
 </div>
 
 <br/>
