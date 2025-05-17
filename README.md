@@ -1,10 +1,10 @@
-<div align="center">
-  <img src="https://media1.tenor.com/m/CFyGnTjUqw4AAAAd/dinosaur.gif" />
-</div>
-
 <!-- <div align="center">
-  <img src="https://i.gifer.com/fz6c.gif" />
+  <img src="https://media1.tenor.com/m/CFyGnTjUqw4AAAAd/dinosaur.gif" />
 </div> -->
+
+<div align="center">
+  <img src="https://i.imgur.com/1t8HA7M.gif" width="100%" />
+</div>
 
 <br/>
 
