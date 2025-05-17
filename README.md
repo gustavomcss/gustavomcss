@@ -1,4 +1,4 @@
-div align="center">
+<div align="center">
   <img src="https://media1.tenor.com/m/CFyGnTjUqw4AAAAd/dinosaur.gif" />
 </div>
 
